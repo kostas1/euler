@@ -1,2 +1,1 @@
-euler
-=====
+Euler problems which I solved using Haskell
